@@ -128,7 +128,7 @@ const Home = ({ textColor }) => {
     };
 
     return (
-        <div className={`container p-5 bg-${textColor}`} style={{ color: textColor === 'white' ? 'black' : 'white' }}>
+        <div className={`container p-5 `}>
             <h1 className="text-center fw-bold">Micro Writer</h1>
             <h6 className="text-center">
                 Generate Unlimited SEO-Optimized Articles powered by your OpenAI API Key
