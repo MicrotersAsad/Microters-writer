@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Microters-writer/static/css/main.b95f03b0.css",
+    "main.css": "/Microters-writer/static/css/main.bced2410.css",
     "main.js": "/Microters-writer/static/js/main.85f9d8bb.js",
     "static/js/787.675349c8.chunk.js": "/Microters-writer/static/js/787.675349c8.chunk.js",
     "index.html": "/Microters-writer/index.html",
-    "main.b95f03b0.css.map": "/Microters-writer/static/css/main.b95f03b0.css.map",
+    "main.bced2410.css.map": "/Microters-writer/static/css/main.bced2410.css.map",
     "main.85f9d8bb.js.map": "/Microters-writer/static/js/main.85f9d8bb.js.map",
     "787.675349c8.chunk.js.map": "/Microters-writer/static/js/787.675349c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b95f03b0.css",
+    "static/css/main.bced2410.css",
     "static/js/main.85f9d8bb.js"
   ]
 }
