@@ -9,7 +9,8 @@ body {
   column-gap: 20px;
   overflow: visible;
   border-color: inherit;
-  background-color: #f3f8fc;
+  /* background-color: #f3f8fc; */
+  background-color: none;
 }
 #header{
   background-color: #3366ff!important;
