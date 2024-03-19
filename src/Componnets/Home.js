@@ -213,7 +213,7 @@ const Home = ({ textColor }) => {
                 ) : (
                     <div>
                         <h3>Streaming Real-Time Results:</h3>
-                        <CKEditor
+                        <CKEditor 
                             editor={ClassicEditor}
                             data={streamingText.slice(0, currentWordIndex).join(" ")}
                             onChange={(event, editor) => {

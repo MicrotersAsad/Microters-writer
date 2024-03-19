@@ -16,6 +16,9 @@ body {
   background-color: #3366ff!important;
     background-image: none;
 }
+.ck-content{
+  width: 70vw;
+}
 .svg-icons{
     width: 16px;
     height: 16px;
