@@ -21,7 +21,7 @@ const Home = ({ textColor }) => {
     const [generatedResponse, setGeneratedResponse] = useState(null); 
     const [language, setLanguage] = useState(''); 
     const [currentWordIndex, setCurrentWordIndex] = useState(0); 
-    const [backgroundColor, setBackgroundColor] = useState('#ffffff'); // Background color state
+    
 
     useEffect(() => {
         setError(null); 
